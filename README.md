@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello!
 
+About me: I'm a mathematician who's making the move from pure academia to applied research and development.  This profile is here to share all the coding I've done over the years for my research.  
+For each repository, please see the readme for some background information, and links to the papers the code contributed to.
 <!--
 **Jessecl7/Jessecl7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
